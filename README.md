@@ -1,2 +1,2 @@
 # .github.io-
-my web site
+まむのむ web site
